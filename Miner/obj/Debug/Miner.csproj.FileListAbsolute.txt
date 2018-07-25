@@ -1,0 +1,9 @@
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\bin\Debug\Miner.exe.config
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\bin\Debug\Miner.exe
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\bin\Debug\Miner.pdb
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\obj\Debug\Miner.csprojResolveAssemblyReference.cache
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\obj\Debug\Miner.Form1.resources
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.Cache
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\obj\Debug\Miner.exe
+c:\users\артур\documents\visual studio 2013\Projects\Miner\Miner\obj\Debug\Miner.pdb
